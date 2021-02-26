@@ -1,0 +1,10 @@
+print("Contoh Perulangan Suatu String")
+for huruf in "SISTEL"
+    print(huruf)
+        
+nilai_awal=0
+nilai_akhir=25
+step=5
+print("Contoh Perulangan Angka Range())
+for i in range(nilai_awal, nilai_akhir, step):          
+print(i)
